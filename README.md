@@ -20,4 +20,4 @@ Sentiment analysis for Chinese text poses additional challenges due to the scarc
 
 ## **Data**
 
-Since our dataset is private, we can't providde the resource
+Since our dataset is private, we can't provide the resource
