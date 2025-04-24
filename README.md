@@ -8,7 +8,7 @@ Sentiment analysis for Chinese text poses additional challenges due to the scarc
 
 1.   Files berfore training are listed in the folder. They are all named by their contents.
 2.   Files for training, testing and the model are in the "training_code" folder. 
-3.   More deatail in [report](Chinese-sentiment-analysis/report(Chinese).docx)！
+3.   More deatail in [report](https://github.com/HaohanTsao/Chinese-sentiment-analysis/blob/main/report(Chinese).docx)！
 
 ## **Try the model**
 
